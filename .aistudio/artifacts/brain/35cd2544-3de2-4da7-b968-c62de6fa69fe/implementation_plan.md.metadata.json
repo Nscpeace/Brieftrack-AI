@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive architectural and UX implementation plan for the Meeting Preparation and Automatic Action Tracking System (Project 7). Covers pre-meeting briefing compilation, transcript processing, human-in-the-loop action assignment, multi-tool sync (Asana, Notion, ClickUp), weekly overdue tracking, and interactive n8n/Make workflow architecture.",
+  "updatedAt":  "2026-10-27T15:51:55.735760649Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

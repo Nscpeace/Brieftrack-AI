@@ -1,0 +1,7 @@
+{
+  "name": "BriefTrack AI",
+  "description": "Pre-meeting executive briefs, post-meeting transcript action tracking, human-in-the-loop task assignment, and multi-tool sync with Asana, Notion, and ClickUp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
